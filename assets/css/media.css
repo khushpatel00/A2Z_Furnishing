@@ -121,7 +121,3 @@
         transform: scale(1.2) translateX(-180px);
     }
 }
-
-@media (min-width:1200px) {}
-
-@media (min-width:1400px) {}
